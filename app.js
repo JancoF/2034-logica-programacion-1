@@ -33,6 +33,7 @@ while(numeroUsario != numeroSecreto){
 
 
 /* 
+
 Muestra una alerta con el mensaje "¡Bienvenida y 
 bievenido a nuestro sitio web!".
 
@@ -175,3 +176,4 @@ let numero = Math.floor(Math.random()*1000)+1;
 console.log(numero);
 */ 
 
+alert("Fin del modulo uno")
